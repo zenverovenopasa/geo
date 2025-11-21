@@ -178,13 +178,6 @@ Ide-ide untuk pengembangan:
 - [ ] Sharing lokasi dengan user lain
 - [ ] Map clustering untuk catatan yang banyak
 
-## Lisensi
-
-Proyek ini bersifat pribadi. Untuk lisensi, hubungi pemilik repository.
-
-## Kontribusi
-
-Untuk kontribusi atau bug report, buat issue atau pull request di GitHub.
 
 ## Kontak
 
